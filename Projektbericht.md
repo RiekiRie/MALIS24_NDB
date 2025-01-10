@@ -8,7 +8,7 @@ Jil Marie Blum (Matrikelnummer: xxxxxxxx )
 
 Stephan Höing (Matrikelnummer: 11333362 )
 
-Rieke Paetsch-Saleh (Matrikelnummer: xxxxxxxx )
+Rieke Paetsch-Saleh (Matrikelnummer: 11336561)
 
 ## Inhalt
 - [1. Auswahl und Beschreibung des Vokabulars](#1)
@@ -36,7 +36,7 @@ Jeder Eintrag der NDB erhält eine Vokabel-ID, über die dieser eindeutig identi
 ![](https://github.com/shoeing1/MALIS24_NDB/blob/main/NDB%20Screenshot.png)
 Abb. 1: Screenshot des NDB-Eintrags _Arbeiter_
 
-Die Normdatenbank wird lediglich in deutscher Sprache geführt. Die Gruppe hat sich dennoch für die Erstellung eines zweisprachigen SKOS-Vokabulars entschieden, für das die entsprechenden Felder eigenständig übersetzt wurden. In einigen Fällen fehlte eine Definition der Vokabel in der NDB. Statt auf eine Begriffserklärung zu verzichten wurde für entsprechende Begfiffe auf die jeweilige Definitionen des Dudens zurückgegriffen.
+Die Normdatenbank wird lediglich in deutscher Sprache geführt. Die Gruppe hat sich dennoch für die Erstellung eines zweisprachigen SKOS-Vokabulars entschieden, für das die entsprechenden Felder eigenständig übersetzt wurden. In einigen Fällen fehlte eine Definition der Vokabel in der NDB. Statt auf eine Begriffserklärung zu verzichten wurde für entsprechende Begriffe auf die jeweilige Definitionen des Dudens zurückgegriffen.
 
 Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder der NDB für relevant erachtet und wie diese in der SKOS-Kodierung implementiert wurden.
 
@@ -46,7 +46,7 @@ Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder 
 
 <a name="3"></a>
 ## **3. Umsetzungsphase**
-Im Folgenden wird die Umsetzung genauer Beschrieben. Dabei soll zunächst detailliert darauf eingegangen werden, welche Felder der NDB genutzt und wie diese in die SKOS-Kodierung eingearbeitet wurden. Im zweiten Schritt wird auf den Veröffentlichungsvorgang des Vokabulars ober SKOHub Pages eingegangen. In der Beschreibung wird auch auf Probleme eingegangen, die bei der Umsetzung aufgetreten sind.
+Im Folgenden wird die Umsetzung genauer beschrieben. Dabei soll zunächst detailliert darauf eingegangen werden, welche Felder der NDB genutzt und wie diese in die SKOS-Kodierung eingearbeitet wurden. Im zweiten Schritt wird auf den Veröffentlichungsvorgang des Vokabulars ober SKOHub Pages eingegangen. In der Beschreibung wird auch auf Probleme eingegangen, die bei der Umsetzung aufgetreten sind.
 
 
 <a name="3.1"></a>
